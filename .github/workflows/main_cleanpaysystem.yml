@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'CleanPaySystem'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_98EDD3EA22714349BCF0D9F53EE14C72 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_02D5354330014D35B230937797EE9FF1 }}
           package: .
